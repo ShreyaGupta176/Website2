@@ -1,0 +1,85 @@
+body{
+  margin: 0px ;
+  text-align: center;
+  font-family: comic sans, cursive, sans-serif;
+}
+
+h1{
+  font-family: cursive, sans-serif;
+  margin-top: 0px;
+  padding-left: 20px;
+  color: #557C55;
+}
+h2{
+  color: #35858B;
+}
+
+p{
+  padding: 0 20px 20px;
+  margin: 0;
+}
+.cloud1{
+  position: absolute;
+  right: 300px;
+  bottom: 470px;
+  width: 90px;
+}
+.cloud{
+  position: absolute;
+  left:290px;
+  bottom: 300px;
+  width: 90px;
+}
+.mountain{
+  width: 500px;
+}
+.top_container{
+  padding-top: 200px;
+  position: relative;
+  align-content: center;
+  background-color: #EFFCEF;
+  height: 100%;
+  color: #557C55;
+}
+.middle_container{
+  margin-top: 0;
+  height: 100%;
+  background-color: #D4ECDD;
+  color: #7ECA9C;
+  padding-bottom: 100px;
+}
+.skill{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+.profile{
+  max-width: 10%;
+  max-height: 10%;
+}
+.team{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skillrow{
+  padding= 20px;
+}
+.paint{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.bottom_container{
+  height:100%;
+  color: #70AF85;
+  background-color: #CCEDD2;
+}
+hr{
+  margin: 0;
+  border: 0;
+  border-style: solid none double none;
+  border-color: #7FC8A9;
+  border-width:  medium;
+}
